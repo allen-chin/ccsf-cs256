@@ -1,0 +1,16 @@
+images
+
+# Extraneous files
+legend.png
+map.png
+out.png
+
+russian*
+*.log
+*.osm
+*.xcf
+*.xml
+hw3/frac.png
+hw3/label.txt
+hw3/fig-simple.png
+hw3/hw3.png
