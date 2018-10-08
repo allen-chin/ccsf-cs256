@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy ByPass -Command "& 	.\Get-PeerReview.ps1"
