@@ -4,7 +4,7 @@ Param (
     [switch]$EnterCredentials
 )
 
-if ($LocalPath.Substring($LocalPath.GetLength() - 1) -ne '\') {
+if ($LocalPath.Substring($LocalPath.Length - 1) -ne '\') {
     $LocalPath += '\'
 }
 
